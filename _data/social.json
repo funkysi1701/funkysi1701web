@@ -7,6 +7,18 @@
             "url": "https://twitter.com/funkysi1701"
         },
         {
+          "type": "facebook",
+          "title": "Facebook",
+          "icon": "fa-facebook",
+          "url": "https://facebook.com/funkysi1701"
+        },
+        {
+          "type": "linkedin",
+          "title": "LinkedIn",
+          "icon": "fa-linkedin",
+          "url": "https://www.linkedin.com/in/funkysi1701/"
+        },
+        {
             "type": "github",
             "title": "GitHub",
             "icon": "fa-github",
