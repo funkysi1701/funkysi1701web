@@ -7,7 +7,7 @@ collections:
 header:
   title: Simon Foster
   tagline: >-
-    I am a contract developer working in the North of England. I created the Pwned Pass app that is available from Google Play and Microsoft Stores
+    I am a contract developer working in the North of England. 
   bg_img: images/header-bg.jpg
   has_nav: true
   has_social: true
@@ -19,6 +19,9 @@ footer:
       new_window: true
     - text: Generated from DEV
       url: 'https://dev.to/connecting-with-stackbit'
+      new_window: true
+    - text: Original Blog
+      url: 'https://www.funkysi1701.com'
       new_window: true
 palette: yellow
 sass:
