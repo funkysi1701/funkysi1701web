@@ -6,7 +6,7 @@ layout: body
     {% include header_alt.html %}
   {% else %}
     
-    {% include header.html site=site page=page img_path=page.content_img_path %}
+    {% include header.html site=site page=page img_path=site.header.bg_img %}
   {% endif %}
 
   <div id="content" class="site-content">
