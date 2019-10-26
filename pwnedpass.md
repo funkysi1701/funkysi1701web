@@ -5,7 +5,7 @@ menus:
   main:
     title: Pwned Pass
     weight: 6
-layout: contact
+layout: home
 ---
 
 To do.....

@@ -5,9 +5,9 @@ collections:
   posts:
     permalink: '/posts/:title/'
 header:
-  title: Simon Foster
+  title: Funky Si's Tech Talk
   tagline: >-
-    I am a contract developer working in the North of England. 
+    Simon Foster is a contract developer working in the North of England. 
   bg_img: images/header-bg.jpg
   has_nav: true
   has_social: true
