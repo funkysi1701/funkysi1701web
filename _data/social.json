@@ -35,6 +35,12 @@
           "title":"Google Play",
           "icon":"fa-google",
           "url":"https://play.google.com/store/apps/dev?id=6148298088834956775&hl=en"
+        },
+        {
+          "type":"rss",
+          "title":"RSS",
+          "icon":"fa-rss",
+          "url":"https://dev.funkysi1701.com/feed.xml"
         }
     ]
 }
