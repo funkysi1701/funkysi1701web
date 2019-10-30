@@ -39,7 +39,7 @@
         {
           "type":"rss",
           "title":"RSS",
-          "icon":"fa-rss",
+          "icon":"fa-spotify",
           "url":"https://dev.funkysi1701.com/feed.xml"
         }
     ]
