@@ -1,5 +1,5 @@
 ---
-title: Get in Touch
+title: Contact Me
 img_path: images/contact.jpg
 menus:
   main:
@@ -8,4 +8,4 @@ menus:
 layout: contact
 ---
 
-To get in touch fill the form below.
+To contact me fill in the form below.
