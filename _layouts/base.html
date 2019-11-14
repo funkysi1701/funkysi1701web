@@ -9,7 +9,7 @@
         <meta name="description" content="Simon Foster is a contract developer working in the North of England.">
         <meta name="twitter:card" content="summary">
         <meta name="twitter:description" content="Simon Foster is a contract developer working in the North of England.">
-        <meta name="twitter:title" content="Funky Si's Tech Talk - Contract Developer working in the North of England">
+        <meta name="twitter:title" content="{% assign title_is_not_empty = page.title | is_not_empty %}{% if title_is_not_empty %}{{ page.title }} - {% endif %}{{ site.title }}">
         <meta name="twitter:site" content="@funkysi1701">
         <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i" rel="stylesheet">
         <link rel="stylesheet" href="{{ 'assets/css/main.css' | relative_url }}">
