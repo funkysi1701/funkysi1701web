@@ -14,7 +14,7 @@ GEM
     http_parser.rb (0.6.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
-    jekyll (3.8.4)
+    jekyll (4.1.1)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
@@ -39,6 +39,7 @@ GEM
     jekyll-watch (2.1.2)
       listen (~> 3.0)
     kramdown (2.3.0)
+    rexml (3.2.4)
     liquid (4.0.1)
     listen (3.1.5)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -71,4 +72,4 @@ DEPENDENCIES
   jekyll-paginate-v2 (~> 1.9)
 
 BUNDLED WITH
-   1.16.6
+   2.1.4
