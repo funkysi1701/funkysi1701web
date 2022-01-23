@@ -1,8 +1,0 @@
-[build]
-publish = "_site"
-command = "./stackbit-build.sh"
-[[redirects]]
-  from = "https://funkysi1701-cbea7.netlify.com"
-  to = "https://dev.funkysi1701.com"
-  status = 301
-  force = false
