@@ -14,11 +14,11 @@
     "build": "webpack --mode=production"
   },
   "devDependencies": {
-    "@babel/cli": "7.18.10",
-    "@babel/core": "7.19.1",
-    "@babel/parser": "7.19.1",
+    "@babel/cli": "7.19.3",
+    "@babel/core": "7.19.3",
+    "@babel/parser": "7.19.3",
     "@babel/plugin-transform-runtime": "7.19.1",
-    "@babel/preset-env": "7.19.1",
+    "@babel/preset-env": "7.19.3",
     "@babel/preset-stage-2": "7.8.3",
     "angular-html-parser": "1.8.0",
     "babel-eslint": "10.1.0",
