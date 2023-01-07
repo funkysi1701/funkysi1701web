@@ -1,8 +1,10 @@
 {
-  "lockFileMaintenance": {
-    "enabled": true,
-    "automerge": true
-  },
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
+      "automerge": true
+    }
+  ],
   "extends": [
     "config:base"
   ]
